@@ -1,7 +1,7 @@
 import math
 
 def fermat(inteiro, num):
-    inteiro+= 1  ##Soam-se porque o quadrado da parte inteira não corresponde ao número inicial
+    inteiro+= 1  ##Soma-se porque o quadrado da parte inteira não corresponde ao número inicial
 
     lista = []
     y = 0
